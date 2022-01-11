@@ -1,0 +1,12 @@
+header nav img {
+  height: 40px;
+}
+header > div {
+  height: calc(100vh - 66px);
+}
+header > div img {
+  height: calc(100vh - 66px);
+}
+footer {
+  background: rgb(248, 249, 250);
+}
